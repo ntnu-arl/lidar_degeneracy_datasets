@@ -30,6 +30,15 @@ Synchronized using microcontroller-based internally developed synchronization/tr
 - [VectorNav VN100 IMU](https://www.vectornav.com/products/detail/vn-100)
 - [TexasInstrument IWR6843AOP-EVM Radar](https://www.ti.com/tool/IWR6843AOPEVM)
 
+##### Topics
+
+| **Source** 	| **Topic**                                                                                                                                                         	| **Rate [Hz]** 	|
+|:----------:	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------	|
+| Triggering 	| - `/sensor_sync_node/trigger_0`<br>- `/sensor_sync_node/trigger_1`                                                                                                	| - 800<br>- 10 	|
+| IMU        	| - `/vectornav_node/imu`<br>- `/vectornav_node/magetic_field`<br>- `/vectornav_node/pressure`<br>- `/vectornav_node/temperature`<br>- `/vectornav_node/uncomp_imu` 	| 200           	|
+| LiDAR      	| - `/os_cloud_node/imu_packets`<br>- `/os_cloud_node/lidar_packets`<br>- `/os_cloud_node/metadata`                                                                 	| 10            	|
+| Radar      	| `/radar/cloud`                                                                                                                                                    	| 10            	|
+
 ##### Extrinsics
 
 All extrinsics are given with respect to the IMU
