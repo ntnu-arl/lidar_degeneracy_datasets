@@ -1,4 +1,4 @@
-# LiDAR Degeneracy Datasets
+# LiDAR Degeneracy Datasets (UNDER DEVELOPMENT)
 
 Dataset associated with submission for handling LiDAR-degenerative environments through LiDAR-radar-inertial fusion with factor graphs.
 
