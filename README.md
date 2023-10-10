@@ -34,7 +34,7 @@ Synchronized using microcontroller-based internally developed synchronization/tr
 
 - [Ouster OS0-128 LiDAR](https://ouster.com/products/scanning-lidar/os0-sensor/)
 - [VectorNav VN100 IMU](https://www.vectornav.com/products/detail/vn-100)
-- [TexasInstrument IWR6843AOP-EVM Radar](https://www.ti.com/tool/IWR6843AOPEVM)
+- [Texas Instruments IWR6843AOP-EVM Radar](https://www.ti.com/tool/IWR6843AOPEVM)
 
 ##### Topics
 
