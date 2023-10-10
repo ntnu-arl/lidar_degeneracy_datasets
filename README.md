@@ -35,5 +35,13 @@ Synchronized using microcontroller-based internally developed synchronization/tr
 All extrinsics are given with respect to the IMU
 
 **LiDAR**
+- translation [x, y, z]
+  - [-0.00171, 0.02149, 0.0358]
+- orientation [x, y, z, w]
+  - [0.000462, 0.0008483, 0.0028835, 0.9999954]
 
 **Radar**
+- translation [x, y, z]
+  - [0.07771, 0.02141, -0.03631]
+- orientation [x, y, z, w]
+  - [0.953717, 0, -0.3007058, 0]
