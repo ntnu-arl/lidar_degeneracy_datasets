@@ -6,15 +6,15 @@ Dataset associated with submission for handling LiDAR-degenerative environments 
 
 ### [Fyllingsdalen Tunnel](https://maps.app.goo.gl/Crj1o13NznuE5fZn8)
 
-![INSERT IMAGE HERE](image.png)
+![INSERT IMAGE HERE](images/drone_in_tunnel.png)
 
-Find dataset [here]()
+Find dataset [INSERT DATASET LINK HERE]()
 
 ### [Fog-Filled University Corridor](https://maps.app.goo.gl/V5ZfTVAy4xxQHPzs5)
 
-![INSERT IMAGE HERE](image.png)
+![INSERT IMAGE HERE](images/drone_in_smoke.png)
 
-Find dataset [here]()
+Find dataset [INSERT DATASET LINK HERE]()
 
 ## Robot Equipiment
 
