@@ -12,7 +12,7 @@ Find dataset [INSERT DATASET LINK HERE]()
 
 ### [Fog-Filled University Corridor](https://maps.app.goo.gl/V5ZfTVAy4xxQHPzs5)
 
-![INSERT IMAGE HERE](images/drone_in_smoke.png)
+![INSERT IMAGE HERE](images/image-1580.png)
 
 Find dataset [INSERT DATASET LINK HERE]()
 
