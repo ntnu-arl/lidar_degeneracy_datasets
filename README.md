@@ -10,17 +10,17 @@ The datasets consist of sensor measurements (IMU, LiDAR, and FMCW radar) of an a
 
 Manual flight along a 8m-wide, 500m-long, straight section of a biking tunnel in Bergen, Norway.
 
-![INSERT IMAGE HERE](images/drone_in_tunnel.png)
+![fyllingsdalen bycicale tunnel image](images/drone_in_tunnel.png)
 
-Bag files can be found [INSERT DATASET LINK HERE]()
+Bag files can be found [here](https://ntnu.box.com/s/congyw29kpo80exau7e1tpeyoqay6u9d)
 
 ### [Fog-Filled University Corridor](https://maps.app.goo.gl/V5ZfTVAy4xxQHPzs5)
 
 Manual flight in a university environment in the Elektro building of NTNU in Trondheim, Norway. The first corridor flown through after takeoff is filled with dense fog.
 
-![INSERT IMAGE HERE](images/image-1580.png)
+![fog-filled university corridor image](images/image-1580.png)
 
-Bag files can be found [INSERT DATASET LINK HERE]()
+Bag files can be found [here](https://ntnu.box.com/s/30syn4fpmq5tfgosy99tji4aqirooj1r)
 
 ## Robot Equipiment
 
