@@ -62,3 +62,8 @@ All extrinsics are given with respect to the IMU
   - `[0.07771, 0.02141, -0.03631]`
 - orientation [x, y, z, w]
   - `[0.953717, 0, -0.3007058, 0]`
+
+
+## Acknowledgements
+
+We thank the Vestland Fylkeskommune for providing access to the Fyllingsdal sykkeltunnel.
