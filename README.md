@@ -36,6 +36,8 @@ Synchronized using microcontroller-based internally developed synchronization/tr
 - [VectorNav VN100 IMU](https://www.vectornav.com/products/detail/vn-100)
 - [Texas Instruments IWR6843AOP-EVM Radar](https://www.ti.com/tool/IWR6843AOPEVM)
 
+The header time stamp for IMU and radar originate from the triggering module, to replay the trigger-stamped LiDAR data from packet topics use [this](https://github.com/ntnu-arl/ouster-ros/tree/dev/sensor_sync_replay) driver.
+
 ##### Topics
 
 | **Source** 	| **Topic**                                                                                                                                                         	| **Rate [Hz]** 	|
