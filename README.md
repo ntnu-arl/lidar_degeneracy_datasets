@@ -1,4 +1,4 @@
-# LiDAR Degeneracy Datasets (UNDER DEVELOPMENT)
+# LiDAR Degeneracy Datasets
 
 Dataset associated with submission for handling LiDAR-degenerative environments through LiDAR-radar-inertial fusion with factor graphs.
 
@@ -25,8 +25,6 @@ Bag files can be found [here](https://ntnu.box.com/s/30syn4fpmq5tfgosy99tji4aqir
 ## Robot Equipiment
 
 ### Drone
-
-![INSERT IMAGE HERE](image.png)
 
 #### Sensors
 
@@ -64,7 +62,6 @@ All extrinsics are given with respect to the IMU
   - `[0.07771, 0.02141, -0.03631]`
 - orientation [x, y, z, w]
   - `[0.953717, 0, -0.3007058, 0]`
-
 
 ## Acknowledgements
 
