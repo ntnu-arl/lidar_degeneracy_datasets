@@ -41,7 +41,7 @@ The header time stamp for IMU and radar originate from the triggering module, to
 | **Source** 	| **Topic**                                                                                                                                                         	| **Rate [Hz]** 	|
 |:----------:	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------	|
 | Triggering 	| - `/sensor_sync_node/trigger_0`<br>- `/sensor_sync_node/trigger_1`                                                                                                	| - 800<br>- 10 	|
-| IMU        	| - `/vectornav_node/imu`<br>- `/vectornav_node/magetic_field`<br>- `/vectornav_node/pressure`<br>- `/vectornav_node/temperature`<br>- `/vectornav_node/uncomp_imu` 	| 200           	|
+| IMU        	| `/vectornav_node/uncomp_imu` 	                                                                                                                                      | 200           	|
 | LiDAR      	| - `/os_cloud_node/imu_packets`<br>- `/os_cloud_node/lidar_packets`<br>- `/os_cloud_node/metadata`                                                                 	| 10            	|
 | Radar      	| `/radar/cloud`                                                                                                                                                    	| 10            	|
 
