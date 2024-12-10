@@ -66,3 +66,20 @@ All extrinsics are given with respect to the IMU
 ## Acknowledgements
 
 We thank the Vestland Fylkeskommune for providing access to the Fyllingsdal sykkeltunnel.
+
+## Reference
+
+If you use this work in your research, please cite the following publication:
+
+**Degradation Resilient LiDAR-Radar-Inertial Odometry** ([link](https://arxiv.org/abs/2403.05332))
+
+```bibtex
+@inproceedings{nissov2024degradation,
+  author={Nissov, Morten and Khedekar, Nikhil and Alexis, Kostas},
+  booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  title={Degradation Resilient LiDAR-Radar-Inertial Odometry}, 
+  year={2024},
+  pages={8587-8594},
+  doi={10.1109/ICRA57147.2024.10611444}
+}
+```
