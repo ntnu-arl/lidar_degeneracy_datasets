@@ -12,7 +12,7 @@ Manual flight along a 8m-wide, 500m-long, straight section of a biking tunnel in
 
 ![fyllingsdalen bycicale tunnel image](images/drone_in_tunnel.png)
 
-Bag files can be found [here](https://ntnu.box.com/s/congyw29kpo80exau7e1tpeyoqay6u9d)
+Bag files can be found [here](https://huggingface.co/datasets/ntnu-arl/lidar_degeneracy_datasets/blob/main/tunnel.bag)
 
 ### [Fog-Filled University Corridor](https://maps.app.goo.gl/V5ZfTVAy4xxQHPzs5)
 
@@ -20,7 +20,7 @@ Manual flight in a university environment in the Elektro building of NTNU in Tro
 
 ![fog-filled university corridor image](images/image-1580.png)
 
-Bag files can be found [here](https://ntnu.box.com/s/30syn4fpmq5tfgosy99tji4aqirooj1r)
+Bag files can be found [here](https://huggingface.co/datasets/ntnu-arl/lidar_degeneracy_datasets/blob/main/fog.bag)
 
 ## Robot Equipiment
 
